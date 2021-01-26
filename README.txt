@@ -1,0 +1,1 @@
+This is the first initialization of the class, Computer Systems Administration, or CS447.
