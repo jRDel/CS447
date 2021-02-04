@@ -1,0 +1,111 @@
+   3637 Accounting
+   3445 Accounting and Info Syst
+   3674 Animal and Rangeland Sci
+   3772 Anthropology
+   3678 Art - Digital Media
+   3438 Art - Drawing
+   3545 Atmospheric Science
+   3745 Atmospheric Science BS
+   3565 Biochem and Molecular Biol
+   3568 Biology
+   3574 Biomedical Engineering
+   3536 Biomedical Engr Emphasis
+   3498 Biotechnology
+   3473 Business & Comm
+   3729 Business Administration MBA
+   3604 CEE-Earthquake Struct Engr
+   3580 CEE-Environmental Engr
+   3588 CEE-Geotechnical Engr
+   3629 CEE-Pvmnts & Matrls Engr
+   3620 CEE-Pvmnts Engr & Sci
+   3644 CEE-Transportation Engr
+   3570 CHE - Biomedical
+   3483 CHE - Environmental Engr
+   3745 CHE - General
+   3719 CHE - Matr ScI & Engr
+   3587 CHE - Proc & Enrgy Engr
+   3853 CHS - Public Health BS
+   3478 Chem - General Chemistry
+   3507 Chem - Pre-Medical Chem
+   3609 Chem - Professional Chem
+   3617 Chemical Engineering
+   3665 Chemical Physics
+   3504 Civil Engineering
+   3775 Civil and Enviro
+   3553 Communication Studies
+   3716 Computer Sci and Engr
+   3646 Computer Sci and Engr 
+   3735 Computer Sci and Engrg
+   3556 Criminal Justice - General
+   3627 Criminal Justice MA
+   3635 Cybersecurity
+   3611 Cybersecurity GCert
+   3595 Ecohydrology
+   3544 Ecology
+   3595 Economics
+   3746 Electrical Engineering
+   3864 Engineering Education
+   3581 Engineering Physics
+   3680 English - Language Ling
+   3408 English - Writing
+   3495 EnvSci-Ntrl Resrc Pln
+   3576 Enviro Sci - Env Chem
+   3721 Environmental Engrg
+   3691 Exploratory
+   3739 General Business
+   3548 General Emphasis
+   3852 General Studies
+   3619 Geography
+   3668 Geological Engineering
+   3459 Geological Engineering MS
+   3624 Geology
+   3723 Geophysics
+   3403 Grad Spcl Lib Arts Undeclared
+   3568 Grad Special - General
+   3787 Graphic Design
+   3574 Health & Education Meta-major
+   3550 History
+   3681 Hydrogeology
+   3582 Hydrology
+   3361 Information Systems
+   3639 International Affairs
+   3531 International Bus (Economics)
+   3653 Journalism
+   3611 Journalism BA
+   3824 Liberal Arts
+   3422 Marketing
+   3625 Materials Sci and Engrg
+   3458 Materials Sci and Engring
+   3525 Mathematics
+   3542 Mathematics - Applied BS
+   3600 Mathematics - Discrete Math BS
+   3552 Mathematics - General BS
+   3486 Mathematics - Statistics BS
+   3581 Mechanical Engineering
+   3598 Metallurgical EngineeringQTSB
+   3750 Metallurgical Engrg
+   3578 Microbiology & Immunology
+   3710 Mining Engineering
+   3701 Mining Engineering MS
+   3716 Music
+   3611 Natural Resource Env Sci
+   3657 Neuroscience
+   3652 Nondegree
+   3566 Nuclear Packaging GCert
+   3691 Phil
+   3550 Physics
+   3556 Political Science
+   3508 Psy - Behavior Analysis
+   3592 Psy - General Track
+   3358 Psy - Research
+   3717 Psychology -Cognitive Brain
+   3493 R.A.V.E.S. Emphasis
+   3725 Renewable Energy
+   3651 Renewable Energy Emphasis
+   3752 STEM Meta-major
+   3579 Science
+   3575 Sec Ed - Mathematics BS
+   3463 Special Ed and Disability Stds
+   3709 Theatre (Design/Technology)
+   3561 Undeclared Engineering
+   3525 Wildlife Ecol Conservatn

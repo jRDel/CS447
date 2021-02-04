@@ -1,0 +1,46 @@
+#!/bin/bash
+
+# These don't need to be oneliners
+# Generate the following reports from
+# /nfs/cs447/assignments/2/enrollment.txt
+
+# 1. Generate a unique list of courses
+# Tools needed: cut(1), uniq(1), sort(1)
+cut -d ',' -f 3 enrollment.txt | sort | uniq  > uniquecourses.txt
+# 2. Generate a unique list of majors
+# Tools needed: cut(1), uniq(1), sort(1)
+cut -d ',' -f 2 enrollment.txt | sort | uniq  > uniquemajors.txt
+# 3. Generate a student count for each major
+# Tools needed: cut(1), uniq(1), sort(1)
+cut -d ',' -f 2 enrollment.txt | sort | uniq -c > majorstudentcount.txt
+# 4. Sort numerically the first 10 students in CS446 
+# and create the following directories for each student:
+# ${student}/${course}/assignment{1..10}
+# Tools needed\recommended: cut(1), sort(1), head(1), mapfile, mkdir(1), for, bash array (mapfile)
+
+course="CS446"
+cat enrollment.txt | grep ${course} > 446students.txt 
+mapfile -t array < <(sort -n 446students.txt | cut -d ',' -f 1 446students.txt | head -n 10)
+for student in ${array[@]}; do
+    for i in {1..10}; do
+    mkdir $student/$course/assignment$i
+    done
+done
+
+# 5. For the 10 students from #4 in CS446
+# create user accounts starting at uid 5001 and the GECOS
+# equal to the course name
+# Tools needed: adduser(1), seq(1), while loop or parallel 
+
+
+# Your /etc/passwd should have the following entries
+# student166:x:5001:5001:CS446,,,:/home/student166:/bin/bash
+# student366:x:5002:5002:CS446,,,:/home/student366:/bin/bash
+# student405:x:5003:5003:CS446,,,:/home/student405:/bin/bash
+# student553:x:5004:5004:CS446,,,:/home/student553:/bin/bash
+# student571:x:5005:5005:CS446,,,:/home/student571:/bin/bash
+# student627:x:5006:5006:CS446,,,:/home/student627:/bin/bash
+# student635:x:5007:5007:CS446,,,:/home/student635:/bin/bash
+# student680:x:5008:5008:CS446,,,:/home/student680:/bin/bash
+# student776:x:5009:5009:CS446,,,:/home/student776:/bin/bash
+# student901:x:5010:5010:CS446,,,:/home/student901:/bin/bash
