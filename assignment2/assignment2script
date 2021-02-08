@@ -23,14 +23,26 @@ cat enrollment.txt | grep ${course} > 446students.txt
 mapfile -t array < <(sort -n 446students.txt | cut -d ',' -f 1 446students.txt | head -n 10)
 for student in ${array[@]}; do
     for i in {1..10}; do
-    mkdir $student/$course/assignment$i
+    mkdir -p $student/$course/assignment$i #makes directories wherever script is ran. need enrollment.txt to run these bash cmds
     done
 done
+
+sort -n 446students.txt | cut -d ',' -f 1 446students.txt | head -n 10 > ten446.txt
+
 
 # 5. For the 10 students from #4 in CS446
 # create user accounts starting at uid 5001 and the GECOS
 # equal to the course name
 # Tools needed: adduser(1), seq(1), while loop or parallel 
+
+i=5001
+while read student; do
+    useradd -s /bin/bash -u $i -c "CS446" $student 
+    i=$(( $i + 1))
+done < ten446.txt
+
+
+    
 
 
 # Your /etc/passwd should have the following entries
@@ -44,3 +56,5 @@ done
 # student680:x:5008:5008:CS446,,,:/home/student680:/bin/bash
 # student776:x:5009:5009:CS446,,,:/home/student776:/bin/bash
 # student901:x:5010:5010:CS446,,,:/home/student901:/bin/bash
+#format
+#username:pw:uid:gid:info:homedri:shell
