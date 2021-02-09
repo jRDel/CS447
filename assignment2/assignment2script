@@ -9,7 +9,7 @@
 cut -d ',' -f 3 enrollment.txt | sort | uniq  > uniquecourses.txt
 # 2. Generate a unique list of majors
 # Tools needed: cut(1), uniq(1), sort(1)
-cut -d ',' -f 2 enrollment.txt | sort | uniq  > uniquemajors.txt
+cut -d ',' -f 2 enrollment.txt | awk '{ sub(/[ \t]+$/, ""); print }'| sed '/^$/d;/Computer Sci and Engrg/d' | sed -e 's/Materials Sci and Engrg/Materials Sci and Engr/g' -e 's/Materials Sci and Engring/Materials Sci and Engr/g' | sort | uniq  > uniquemajors.txt
 # 3. Generate a student count for each major
 # Tools needed: cut(1), uniq(1), sort(1)
 cut -d ',' -f 2 enrollment.txt | sort | uniq -c > majorstudentcount.txt

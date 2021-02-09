@@ -34,8 +34,6 @@ Civil Engineering
 Civil and Enviro
 Communication Studies
 Computer Sci and Engr
-Computer Sci and Engr 
-Computer Sci and Engrg
 Criminal Justice - General
 Criminal Justice MA
 Cybersecurity
@@ -74,8 +72,7 @@ Journalism
 Journalism BA
 Liberal Arts
 Marketing
-Materials Sci and Engrg
-Materials Sci and Engring
+Materials Sci and Engr
 Mathematics
 Mathematics - Applied BS
 Mathematics - Discrete Math BS
