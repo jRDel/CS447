@@ -55,15 +55,15 @@ def main():
     username=userpass[0]
     password=userpass[1]
     password=password.rstrip()
-    print (f"{username} , {password}") #test to see if im grabbing the user and password right
-    result=pam.authenticate(username, password, service="nginx_badidea") 
-    print(f"Result: {result}") #print the result
+    #test to see if im grabbing the user and password right
+    result=pam.authenticate(username, password) 
+     #print the result
     if (result):
      sys.stdout.write('True\n')
-     return True
+    
     else:
      sys.stdout.write('False\n')
-     return False
+   
 
     #Authenticate the username and password using
     #pam.authenticate()

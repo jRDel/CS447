@@ -1,0 +1,1663 @@
+student166,Economics,CS446
+student366,International Bus (Economics),CS446
+student405,Information Systems,CS446
+student553,General Emphasis,CS446
+student571,Science,CS446
+student627,Enviro Sci - Env Chem,CS446
+student635,Geography,CS446
+student680,Geography,CS446
+student776,Psy - Research,CS446
+student901,Chem - Pre-Medical Chem,CS446
+student993,Biology,CS446
+student1095,Music,CS446
+student1238,Geophysics,CS446
+student1309,Accounting and Info Syst,CS446
+student1386,CHS - Public Health BS,CS446
+student1590,Environmental Engrg,CS446
+student1626,Phil,CS446
+student1847,CEE-Environmental Engr,CS446
+student1860,Nondegree,CS446
+student1881,Undeclared Engineering,CS446
+student1958,Mining Engineering,CS446
+student1998,Nondegree,CS446
+student2043,Microbiology & Immunology,CS446
+student2076,Mathematics - Discrete Math BS,CS446
+student2172,Art - Digital Media,CS446
+student2323,Materials Sci and Engring,CS446
+student2416,Music,CS446
+student2456,Chem - General Chemistry,CS446
+student2607,Psychology -Cognitive Brain,CS446
+student2647,Psy - General Track,CS446
+student2684,EnvSci-Ntrl Resrc Pln,CS446
+student2816,Computer Sci and Engr,CS446
+student2819,Renewable Energy Emphasis,CS446
+student2916,Mathematics - Statistics BS,CS446
+student2939,Hydrogeology,CS446
+student2994,CEE-Earthquake Struct Engr,CS446
+student3083,Ecology,CS446
+student3369,Political Science,CS446
+student3442,Economics,CS446
+student3531,Enviro Sci - Env Chem,CS446
+student3759,Accounting and Info Syst,CS446
+student3901,Chemical Physics,CS446
+student4023,Materials Sci and Engring,CS446
+student4404,History,CS446
+student4678,Renewable Energy Emphasis,CS446
+student4715,Mathematics,CS446
+student4935,Geology,CS446
+student4936,Psychology -Cognitive Brain,CS446
+student5032,Economics,CS446
+student5068,Journalism BA,CS446
+student5105,Mining Engineering,CS446
+student5142,Wildlife Ecol Conservatn,CS446
+student5285,Biotechnology,CS446
+student5421,Mathematics - Statistics BS,CS446
+student5580,Renewable Energy Emphasis,CS446
+student5650,Chemical Engineering,CS446
+student5657,Chem - Pre-Medical Chem,CS446
+student5846,Ecohydrology,CS446
+student5976,Music,CS446
+student6020,Health & Education Meta-major,CS446
+student6076,International Affairs,CS446
+student6331,CHS - Public Health BS,CS446
+student6592,Grad Spcl Lib Arts Undeclared,CS446
+student6850,Journalism BA,CS446
+student6984,Business Administration MBA,CS446
+student7046,Civil and Enviro,CS446
+student7414,CHE - Biomedical,CS446
+student7441,Metallurgical Engrg,CS446
+student7525,Political Science,CS446
+student7733,Environmental Engrg,CS446
+student7867,Wildlife Ecol Conservatn,CS446
+student7924,Nondegree,CS446
+student7938,Information Systems,CS446
+student7993,Political Science,CS446
+student8015,Engineering Physics,CS446
+student8061,CEE-Pvmnts Engr & Sci,CS446
+student8278,Hydrogeology,CS446
+student8583,CEE-Earthquake Struct Engr,CS446
+student8925,International Bus (Economics),CS446
+student9007,Criminal Justice MA,CS446
+student9485,Theatre (Design/Technology),CS446
+student9624,CEE-Earthquake Struct Engr,CS446
+student9857,Political Science,CS446
+student10064,Computer Sci and Engr,CS446
+student10444,Biochem and Molecular Biol,CS446
+student10549,Physics,CS446
+student10578,Chemical Engineering,CS446
+student10586,Geological Engineering,CS446
+student10706,Marketing,CS446
+student10794,Political Science,CS446
+student10891,Geological Engineering MS,CS446
+student11061,Mechanical Engineering,CS446
+student11328,Mechanical Engineering,CS446
+student11343,Metallurgical EngineeringQTSB,CS446
+student11726,Music,CS446
+student11742,Exploratory,CS446
+student11758,Biomedical Engineering,CS446
+student12051,Biology,CS446
+student12115,General Studies,CS446
+student12182,Wildlife Ecol Conservatn,CS446
+student12233,CHE - Proc & Enrgy Engr,CS446
+student12266,Criminal Justice - General,CS446
+student12284,Psy - Research,CS446
+student12437,Cybersecurity,CS446
+student12547,International Affairs,CS446
+student12633,Cybersecurity GCert,CS446
+student12970,Metallurgical Engrg,CS446
+student13008,Health & Education Meta-major,CS446
+student13523,CEE-Earthquake Struct Engr,CS446
+student13568,Economics,CS446
+student13625,Hydrology,CS446
+student13658,CHE - Biomedical,CS446
+student13691,Political Science,CS446
+student13750,Undeclared Engineering,CS446
+student13760,Cybersecurity GCert,CS446
+student14011,Civil and Enviro,CS446
+student14098,Animal and Rangeland Sci,CS446
+student14133,Mining Engineering MS,CS446
+student14171,Mathematics - Discrete Math BS,CS446
+student14324,Criminal Justice - General,CS446
+student14630,EnvSci-Ntrl Resrc Pln,CS446
+student14676,Ecohydrology,CS446
+student14792,Metallurgical Engrg,CS446
+student14807,Computer Sci and Engr,CS446
+student14947,Chem - Professional Chem,CS446
+student14966,Electrical Engineering,CS446
+student15029,CHS - Public Health BS,CS446
+student15258,Biotechnology,CS446
+student15442,Mathematics - Statistics BS,CS446
+student15661,CHE - Proc & Enrgy Engr,CS446
+student15691,History,CS446
+student16232,Engineering Education,CS446
+student16267,Chem - General Chemistry,CS446
+student16332,Ecology,CS446
+student16409,History,CS446
+student16524,Cybersecurity GCert,CS446
+student16572,Mathematics - Discrete Math BS,CS446
+student16629,Nondegree,CS446
+student16888,Geography,CS446
+student16967,Biomedical Engr Emphasis,CS446
+student16998,Nuclear Packaging GCert,CS446
+student17063,Sec Ed - Mathematics BS,CS446
+student17411,Chem - Pre-Medical Chem,CS446
+student17725,EnvSci-Ntrl Resrc Pln,CS446
+student17843,CHE - Biomedical,CS446
+student17885,EnvSci-Ntrl Resrc Pln,CS446
+student18001,Biology,CS446
+student18027,Neuroscience,CS446
+student18048,Accounting and Info Syst,CS446
+student18217,Art - Digital Media,CS446
+student18318,Science,CS446
+student18456,CHE - Environmental Engr,CS446
+student18521,Business & Comm,CS446
+student18574,Grad Spcl Lib Arts Undeclared,CS446
+student18716,Wildlife Ecol Conservatn,CS446
+student18736,Materials Sci and Engrg,CS446
+student18814,Chem - General Chemistry,CS446
+student18824,Civil and Enviro,CS446
+student18889,History,CS446
+student18991,Business & Comm,CS446
+student19195,Engineering Physics,CS446
+student19266,Criminal Justice - General,CS446
+student19322,Animal and Rangeland Sci,CS446
+student19370,Special Ed and Disability Stds,CS446
+student19375,CEE-Geotechnical Engr,CS446
+student19438,Biomedical Engr Emphasis,CS446
+student19590,Psy - Behavior Analysis,CS446
+student20214,Microbiology & Immunology,CS446
+student20255,Chemical Physics,CS446
+student20531,Phil,CS446
+student20539,R.A.V.E.S. Emphasis,CS446
+student20698,EnvSci-Ntrl Resrc Pln,CS446
+student20799,Business & Comm,CS446
+student21071,Biochem and Molecular Biol,CS446
+student21085,Cybersecurity,CS446
+student21434,CHE - Environmental Engr,CS446
+student21782,Geography,CS446
+student21841,Geology,CS446
+student21942,Psy - Research,CS446
+student21945,General Emphasis,CS446
+student22016,Art - Digital Media,CS446
+student22109,Chem - General Chemistry,CS446
+student22114,International Bus (Economics),CS446
+student22195,General Studies,CS446
+student22258,CEE-Pvmnts Engr & Sci,CS446
+student22340,CEE-Pvmnts Engr & Sci,CS446
+student22423,CHE - Matr ScI & Engr,CS446
+student22499,Computer Sci and Engr,CS446
+student22522,Wildlife Ecol Conservatn,CS446
+student22564,CEE-Pvmnts & Matrls Engr,CS446
+student22621,Geology,CS446
+student22798,Graphic Design,CS446
+student22861,Mathematics - General BS,CS446
+student23036,STEM Meta-major,CS446
+student23145,Criminal Justice - General,CS446
+student23147,Civil Engineering,CS446
+student23215,Accounting,CS446
+student23450,Chemical Engineering,CS446
+student23515,CEE-Pvmnts & Matrls Engr,CS446
+student23569,Liberal Arts,CS446
+student23593,CHS - Public Health BS,CS446
+student23609,Art - Drawing,CS446
+student23671,International Affairs,CS446
+student23760,CEE-Transportation Engr,CS446
+student23921,Business & Comm,CS446
+student23949,CHE - Proc & Enrgy Engr,CS446
+student24001,STEM Meta-major,CS446
+student24181,Renewable Energy Emphasis,CS446
+student24229,Phil,CS446
+student24262,Ecohydrology,CS446
+student24290,Exploratory,CS446
+student24439,Communication Studies,CS446
+student24624,Journalism BA,CS446
+student24682,Wildlife Ecol Conservatn,CS446
+student24916,Anthropology,CS446
+student24954,CHE - Proc & Enrgy Engr,CS446
+student24998,Wildlife Ecol Conservatn,CS446
+student25049,Civil Engineering,CS446
+student25199,Mining Engineering,CS446
+student25341,Exploratory,CS446
+student25450,Renewable Energy Emphasis,CS446
+student25463,Civil and Enviro,CS446
+student25492,Metallurgical Engrg,CS446
+student25637,Mining Engineering MS,CS446
+student25643,Natural Resource Env Sci,CS446
+student25723,Political Science,CS446
+student25744,Hydrology,CS446
+student25819,Hydrogeology,CS446
+student25884,Cybersecurity,CS446
+student26116,Criminal Justice - General,CS446
+student26177,Liberal Arts,CS446
+student26475,STEM Meta-major,CS446
+student26554,Physics,CS446
+student26753,CEE-Earthquake Struct Engr,CS446
+student26810,Hydrogeology,CS446
+student27032,Science,CS446
+student27195,Computer Sci and Engrg,CS446
+student27329,CHE - Matr ScI & Engr,CS446
+student27364,Hydrogeology,CS446
+student27438,Nuclear Packaging GCert,CS446
+student27476,Nuclear Packaging GCert,CS446
+student27671,Accounting,CS446
+student28133,Nuclear Packaging GCert,CS446
+student28245,Geophysics,CS446
+student28254,Accounting and Info Syst,CS446
+student28489,Art - Drawing,CS446
+student28724,Anthropology,CS446
+student29026,Wildlife Ecol Conservatn,CS446
+student29363,Mathematics - Discrete Math BS,CS446
+student29381,STEM Meta-major,CS446
+student29398,Marketing,CS446
+student29402,CHE - General,CS446
+student29457,Criminal Justice MA,CS446
+student29650,Grad Spcl Lib Arts Undeclared,CS446
+student29833,Geological Engineering MS,CS446
+student30077,Geography,CS446
+student30403,Hydrology,CS446
+student30423,Atmospheric Science BS,CS446
+student30455,Criminal Justice - General,CS446
+student30627,Accounting and Info Syst,CS446
+student30685,Wildlife Ecol Conservatn,CS446
+student30701,Computer Sci and Engr ,CS446
+student30780,Mathematics - Discrete Math BS,CS446
+student30905,Psy - Research,CS446
+student30920,Biochem and Molecular Biol,CS446
+student31091,STEM Meta-major,CS446
+student31161,CEE-Transportation Engr,CS446
+student31775,Neuroscience,CS446
+student31887,EnvSci-Ntrl Resrc Pln,CS446
+student31909,Engineering Education,CS446
+student31919,Hydrology,CS446
+student32272,CHE - Matr ScI & Engr,CS446
+student32330,Undeclared Engineering,CS446
+student32340,R.A.V.E.S. Emphasis,CS446
+student32448,Metallurgical Engrg,CS446
+student32566,STEM Meta-major,CS446
+student32680,Music,CS446
+student33020,CEE-Earthquake Struct Engr,CS446
+student33065,Health & Education Meta-major,CS446
+student33108,Psy - General Track,CS446
+student33193,Mining Engineering,CS446
+student33290,Ecohydrology,CS446
+student33374,Microbiology & Immunology,CS446
+student33589,Physics,CS446
+student33664,Business Administration MBA,CS446
+student33721,Animal and Rangeland Sci,CS446
+student33958,Geography,CS446
+student34437,Business & Comm,CS446
+student34665,Mathematics - Discrete Math BS,CS446
+student34671,Grad Special - General,CS446
+student34676,Chemical Engineering,CS446
+student34695,Wildlife Ecol Conservatn,CS446
+student34720,Mining Engineering,CS446
+student34967,Phil,CS446
+student35222,CHE - Environmental Engr,CS446
+student35434,CHE - Matr ScI & Engr,CS446
+student35741,Geological Engineering MS,CS446
+student36265,CEE-Earthquake Struct Engr,CS446
+student36348,Electrical Engineering,CS446
+student36349,Cybersecurity,CS446
+student36391,Graphic Design,CS446
+student36536,Atmospheric Science,CS446
+student36876,Engineering Physics,CS446
+student37072,Civil and Enviro,CS446
+student37253,Cybersecurity GCert,CS446
+student37272,Animal and Rangeland Sci,CS446
+student37304,Criminal Justice - General,CS446
+student37499,Ecology,CS446
+student37796,Mechanical Engineering,CS446
+student37850,Nuclear Packaging GCert,CS446
+student37922,CHS - Public Health BS,CS446
+student37938,Psychology -Cognitive Brain,CS446
+student37959,Health & Education Meta-major,CS446
+student38219,CHE - General,CS446
+student38245,Communication Studies,CS446
+student38264,Grad Special - General,CS446
+student38309,CEE-Earthquake Struct Engr,CS446
+student38374,Electrical Engineering,CS446
+student38460,Animal and Rangeland Sci,CS446
+student38472,Art - Digital Media,CS446
+student38566,Computer Sci and Engr,CS446
+student38580,Nondegree,CS446
+student38841,Business Administration MBA,CS446
+student38844,CEE-Environmental Engr,CS446
+student39119,General Emphasis,CS446
+student39177,Biomedical Engr Emphasis,CS446
+student39249,Liberal Arts,CS446
+student39308,Biomedical Engr Emphasis,CS446
+student39335,Electrical Engineering,CS446
+student39366,Geophysics,CS446
+student39566,Renewable Energy,CS446
+student39706,Liberal Arts,CS446
+student39740,Music,CS446
+student39750,Chem - Pre-Medical Chem,CS446
+student39860,Civil and Enviro,CS446
+student39863,Grad Spcl Lib Arts Undeclared,CS446
+student39932,Journalism,CS446
+student39962,History,CS446
+student40198,English - Language Ling,CS446
+student40227,Renewable Energy,CS446
+student40291,Business Administration MBA,CS446
+student40477,Criminal Justice - General,CS446
+student40699,Exploratory,CS446
+student40812,Computer Sci and Engr,CS446
+student41298,Ecology,CS446
+student41531,Neuroscience,CS446
+student41560,Ecohydrology,CS446
+student41592,Metallurgical EngineeringQTSB,CS446
+student41668,Political Science,CS446
+student41699,Geological Engineering,CS446
+student42159,Natural Resource Env Sci,CS446
+student42342,STEM Meta-major,CS446
+student42488,Biochem and Molecular Biol,CS446
+student42537,CEE-Pvmnts Engr & Sci,CS446
+student42541,Mining Engineering MS,CS446
+student42640,Geology,CS446
+student42725,Ecology,CS446
+student42801,CHE - Environmental Engr,CS446
+student42869,Nondegree,CS446
+student43145,Chemical Physics,CS446
+student43353,Natural Resource Env Sci,CS446
+student43446,Mechanical Engineering,CS446
+student43484,Exploratory,CS446
+student43510,Mining Engineering,CS446
+student43518,Sec Ed - Mathematics BS,CS446
+student43563,Animal and Rangeland Sci,CS446
+student43730,CHE - General,CS446
+student43787,Grad Spcl Lib Arts Undeclared,CS446
+student44045,Biology,CS446
+student44154,CHE - Proc & Enrgy Engr,CS446
+student44290,Chem - Professional Chem,CS446
+student44306,CEE-Transportation Engr,CS446
+student44309,Political Science,CS446
+student44371,Criminal Justice - General,CS446
+student44438,Chem - General Chemistry,CS446
+student44533,Economics,CS446
+student44583,CEE-Geotechnical Engr,CS446
+student44756,Theatre (Design/Technology),CS446
+student44841,Graphic Design,CS446
+student44885,Hydrology,CS446
+student44899,Sec Ed - Mathematics BS,CS446
+student44932,Renewable Energy Emphasis,CS446
+student45168,Music,CS446
+student45211,Music,CS446
+student45371,Health & Education Meta-major,CS446
+student45379,Geophysics,CS446
+student45956,Theatre (Design/Technology),CS446
+student46024,Chemical Engineering,CS446
+student46038,CHE - Matr ScI & Engr,CS446
+student46078,Art - Digital Media,CS446
+student46125,Nondegree,CS446
+student46167,Materials Sci and Engrg,CS446
+student46291,General Business,CS446
+student46357,Special Ed and Disability Stds,CS446
+student46471,Mining Engineering,CS446
+student46577,Biochem and Molecular Biol,CS446
+student46649,International Affairs,CS446
+student46704,Civil and Enviro,CS446
+student46862,Phil,CS446
+student46913,Electrical Engineering,CS446
+student46950,General Studies,CS446
+student47014,Ecohydrology,CS446
+student47494,Phil,CS446
+student48045,CEE-Environmental Engr,CS446
+student48299,Engineering Physics,CS446
+student48380,Mechanical Engineering,CS446
+student48455,Criminal Justice - General,CS446
+student48506,Mathematics - Applied BS,CS446
+student48782,Geological Engineering,CS446
+student48915,Communication Studies,CS446
+student49211,Geology,CS446
+student49530,Art - Digital Media,CS446
+student49589,Atmospheric Science,CS446
+student49653,Mathematics - Discrete Math BS,CS446
+student49877,Environmental Engrg,CS446
+student49895,Mining Engineering MS,CS446
+student50207,Chemical Engineering,CS446
+student50366,Renewable Energy Emphasis,CS446
+student50369,General Studies,CS446
+student50446,CHE - Biomedical,CS446
+student50829,Renewable Energy Emphasis,CS446
+student50870,Special Ed and Disability Stds,CS446
+student50939,Psy - Research,CS446
+student51055,Mathematics - Discrete Math BS,CS446
+student51221,Geology,CS446
+student51618,Microbiology & Immunology,CS446
+student51685,CEE-Earthquake Struct Engr,CS446
+student51805,Psy - General Track,CS446
+student51939,Geology,CS446
+student51956,Psy - Research,CS446
+student52535,Liberal Arts,CS446
+student52637,Biochem and Molecular Biol,CS446
+student52638,CEE-Geotechnical Engr,CS446
+student52645,CEE-Environmental Engr,CS446
+student52654,Liberal Arts,CS446
+student52747,Civil Engineering,CS446
+student52891,Atmospheric Science,CS446
+student52958,CEE-Transportation Engr,CS446
+student52970,Engineering Physics,CS446
+student53065,Animal and Rangeland Sci,CS446
+student53111,CHE - General,CS446
+student53217,Marketing,CS446
+student53617,Geophysics,CS446
+student53776,Cybersecurity,CS446
+student53912,Marketing,CS446
+student54006,Computer Sci and Engr ,CS446
+student54030,Computer Sci and Engrg,CS446
+student54053,Exploratory,CS446
+student54061,Electrical Engineering,CS446
+student54174,Engineering Physics,CS446
+student54242,English - Writing,CS446
+student54326,Art - Drawing,CS446
+student54511,International Affairs,CS446
+student54633,Criminal Justice MA,CS446
+student54691,Graphic Design,CS446
+student54723,Political Science,CS446
+student54836,Science,CS446
+student55003,Geological Engineering MS,CS446
+student55024,English - Writing,CS446
+student55597,EnvSci-Ntrl Resrc Pln,CS446
+student56303,Neuroscience,CS446
+student56451,Mechanical Engineering,CS446
+student56470,Engineering Physics,CS446
+student56487,Computer Sci and Engr,CS446
+student56570,CEE-Earthquake Struct Engr,CS446
+student56572,Geology,CS446
+student56683,Business & Comm,CS446
+student56738,Psy - Behavior Analysis,CS446
+student56791,Mathematics,CS446
+student57046,Nuclear Packaging GCert,CS446
+student57106,CHE - General,CS446
+student57317,Metallurgical Engrg,CS446
+student57333,Grad Spcl Lib Arts Undeclared,CS446
+student57424,Grad Spcl Lib Arts Undeclared,CS446
+student57462,CHE - Proc & Enrgy Engr,CS446
+student57496,Computer Sci and Engr,CS446
+student57577,Journalism BA,CS446
+student57703,Accounting,CS446
+student57750,Chem - General Chemistry,CS446
+student57859,Accounting,CS446
+student57917,CEE-Transportation Engr,CS446
+student58330,Geography,CS446
+student58339,Civil Engineering,CS446
+student58372,Renewable Energy Emphasis,CS446
+student58689,Theatre (Design/Technology),CS446
+student58759,Psy - General Track,CS446
+student58847,Geography,CS446
+student58851,Atmospheric Science,CS446
+student58866,Exploratory,CS446
+student58888,Mathematics - General BS,CS446
+student58919,Electrical Engineering,CS446
+student58939,Phil,CS446
+student59025,Grad Special - General,CS446
+student59113,Natural Resource Env Sci,CS446
+student59246,Computer Sci and Engr,CS446
+student59361,Environmental Engrg,CS446
+student59432,Animal and Rangeland Sci,CS446
+student59595,R.A.V.E.S. Emphasis,CS446
+student59652,Enviro Sci - Env Chem,CS446
+student59777,Geography,CS446
+student60335,CHE - Proc & Enrgy Engr,CS446
+student60380,International Affairs,CS446
+student60400,R.A.V.E.S. Emphasis,CS446
+student60483,Science,CS446
+student60495,Microbiology & Immunology,CS446
+student60525,English - Language Ling,CS446
+student60899,History,CS446
+student60912,Mining Engineering MS,CS446
+student60918,CHE - Environmental Engr,CS446
+student61090,Computer Sci and Engr ,CS446
+student61370,CHE - General,CS446
+student61417,Engineering Education,CS446
+student61472,Natural Resource Env Sci,CS446
+student61575,Theatre (Design/Technology),CS446
+student61779,Mathematics,CS446
+student61798,Materials Sci and Engring,CS446
+student61858,Computer Sci and Engr ,CS446
+student61964,Nuclear Packaging GCert,CS446
+student61977,International Bus (Economics),CS446
+student62004,Special Ed and Disability Stds,CS446
+student62456,English - Language Ling,CS446
+student62525,Psy - Behavior Analysis,CS446
+student62566,CEE-Environmental Engr,CS446
+student62832,Civil and Enviro,CS446
+student62900,Biomedical Engineering,CS446
+student62937,Business Administration MBA,CS446
+student63123,Marketing,CS446
+student63221,Biotechnology,CS446
+student63428,Nondegree,CS446
+student63495,Renewable Energy,CS446
+student63719,Grad Special - General,CS446
+student63959,Metallurgical EngineeringQTSB,CS446
+student64022,Geography,CS446
+student64051,Engineering Physics,CS446
+student64106,STEM Meta-major,CS446
+student64152,Grad Special - General,CS446
+student64158,Chemical Physics,CS446
+student64264,Music,CS446
+student64352,Materials Sci and Engrg,CS446
+student64658,Music,CS446
+student64665,Geological Engineering,CS446
+student64752,Chem - Professional Chem,CS446
+student64753,Mathematics - Statistics BS,CS446
+student64844,International Affairs,CS446
+student65005,General Business,CS446
+student65067,Psy - Behavior Analysis,CS446
+student65212,Business Administration MBA,CS446
+student65337,Mathematics,CS446
+student65340,Computer Sci and Engrg,CS446
+student65536,Business & Comm,CS446
+student65538,Music,CS446
+student65798,Mathematics - General BS,CS446
+student65868,Biology,CS446
+student66023,Theatre (Design/Technology),CS446
+student66053,Psy - Behavior Analysis,CS446
+student66369,Chem - Professional Chem,CS446
+student66630,Neuroscience,CS446
+student66769,Mathematics,CS446
+student66900,General Studies,CS446
+student66909,CEE-Pvmnts & Matrls Engr,CS446
+student67001,Chem - General Chemistry,CS446
+student67058,Health & Education Meta-major,CS446
+student67247,International Affairs,CS446
+student67540,Psychology -Cognitive Brain,CS446
+student67783,International Bus (Economics),CS446
+student67901,Business Administration MBA,CS446
+student68082,General Business,CS446
+student68097,Materials Sci and Engring,CS446
+student68139,CHE - Environmental Engr,CS446
+student68428,Mathematics,CS446
+student68615,Geography,CS446
+student68711,CEE-Pvmnts Engr & Sci,CS446
+student68989,CHE - Environmental Engr,CS446
+student69024,Biomedical Engr Emphasis,CS446
+student69422,Neuroscience,CS446
+student69622,Journalism,CS446
+student69656,Atmospheric Science BS,CS446
+student69711,International Affairs,CS446
+student69802,Biology,CS446
+student69964,Materials Sci and Engring,CS446
+student70273,Journalism BA,CS446
+student70514,Civil Engineering,CS446
+student70690,Renewable Energy,CS446
+student70839,Ecohydrology,CS446
+student70863,Business Administration MBA,CS446
+student70968,R.A.V.E.S. Emphasis,CS446
+student70979,Economics,CS446
+student71085,Neuroscience,CS446
+student71151,Metallurgical Engrg,CS446
+student71226,Chemical Engineering,CS446
+student71306,Civil and Enviro,CS446
+student71377,CHE - Environmental Engr,CS446
+student71607,Mechanical Engineering,CS446
+student71623,Metallurgical EngineeringQTSB,CS446
+student71688,Ecohydrology,CS446
+student71718,Communication Studies,CS446
+student71725,General Studies,CS446
+student71747,Biochem and Molecular Biol,CS446
+student71828,Health & Education Meta-major,CS446
+student71931,Health & Education Meta-major,CS446
+student72064,Journalism,CS446
+student72269,Natural Resource Env Sci,CS446
+student72424,Communication Studies,CS446
+student72438,Journalism BA,CS446
+student72463,Atmospheric Science BS,CS446
+student72801,Marketing,CS446
+student72903,CHE - Biomedical,CS446
+student72916,Environmental Engrg,CS446
+student73065,Environmental Engrg,CS446
+student73073,Theatre (Design/Technology),CS446
+student73225,Physics,CS446
+student73417,International Bus (Economics),CS446
+student73445,Marketing,CS446
+student73526,Mathematics - Statistics BS,CS446
+student73675,Enviro Sci - Env Chem,CS446
+student73724,Theatre (Design/Technology),CS446
+student73805,Mathematics,CS446
+student73917,Anthropology,CS446
+student73949,Mining Engineering MS,CS446
+student73954,Microbiology & Immunology,CS446
+student74301,Accounting and Info Syst,CS446
+student74607,General Studies,CS446
+student74704,Biomedical Engr Emphasis,CS446
+student74838,Environmental Engrg,CS446
+student74953,CEE-Pvmnts & Matrls Engr,CS446
+student75103,Undeclared Engineering,CS446
+student75271,Biomedical Engineering,CS446
+student75646,Biochem and Molecular Biol,CS446
+student75708,Geological Engineering,CS446
+student75713,Ecohydrology,CS446
+student75871,Renewable Energy,CS446
+student75959,Special Ed and Disability Stds,CS446
+student75969,Criminal Justice MA,CS446
+student76129,CEE-Pvmnts Engr & Sci,CS446
+student76288,Mathematics - Discrete Math BS,CS446
+student76333,General Studies,CS446
+student76457,Mathematics - General BS,CS446
+student76489,General Studies,CS446
+student76533,Chemical Engineering,CS446
+student76567,Chem - Pre-Medical Chem,CS446
+student76710,Biomedical Engr Emphasis,CS446
+student76757,Liberal Arts,CS446
+student76786,CHE - Environmental Engr,CS446
+student76942,Geophysics,CS446
+student77004,Music,CS446
+student77021,CEE-Environmental Engr,CS446
+student77079,Biochem and Molecular Biol,CS446
+student77100,Chem - Professional Chem,CS446
+student77152,Journalism,CS446
+student77428,CEE-Earthquake Struct Engr,CS446
+student77463,Environmental Engrg,CS446
+student77469,Geological Engineering,CS446
+student77484,Mathematics,CS446
+student77637,Atmospheric Science,CS446
+student77733,Mechanical Engineering,CS446
+student77978,Chem - General Chemistry,CS446
+student78095,Atmospheric Science,CS446
+student78305,Mathematics - Applied BS,CS446
+student78495,Mining Engineering,CS446
+student78568,Accounting,CS446
+student78678,Cybersecurity GCert,CS446
+student78745,Computer Sci and Engr,CS446
+student78802,Metallurgical Engrg,CS446
+student78865,Business & Comm,CS446
+student79256,CHE - Environmental Engr,CS446
+student79392,Atmospheric Science,CS446
+student79471,Neuroscience,CS446
+student79514,Biochem and Molecular Biol,CS446
+student79624,CHE - Proc & Enrgy Engr,CS446
+student79646,Sec Ed - Mathematics BS,CS446
+student79800,STEM Meta-major,CS446
+student79819,Journalism BA,CS446
+student79867,Civil Engineering,CS446
+student80041,English - Language Ling,CS446
+student80055,Anthropology,CS446
+student80174,CEE-Earthquake Struct Engr,CS446
+student80265,CHE - General,CS446
+student80306,Enviro Sci - Env Chem,CS446
+student80463,Engineering Physics,CS446
+student80464,Mining Engineering,CS446
+student80528,CEE-Pvmnts Engr & Sci,CS446
+student80574,Animal and Rangeland Sci,CS446
+student80894,International Bus (Economics),CS446
+student80969,Geology,CS446
+student81163,Renewable Energy,CS446
+student81352,Exploratory,CS446
+student81398,Psy - General Track,CS446
+student81446,Journalism,CS446
+student81539,Information Systems,CS446
+student81562,Criminal Justice - General,CS446
+student81779,Geography,CS446
+student81785,Chemical Physics,CS446
+student81962,Nondegree,CS446
+student82234,Information Systems,CS446
+student82269,STEM Meta-major,CS446
+student82348,Mechanical Engineering,CS446
+student82360,Geophysics,CS446
+student82437,Natural Resource Env Sci,CS446
+student82467,Psychology -Cognitive Brain,CS446
+student82640,Chem - Pre-Medical Chem,CS446
+student82733,Physics,CS446
+student82799,STEM Meta-major,CS446
+student82802,Communication Studies,CS446
+student82813,Liberal Arts,CS446
+student82818,Biomedical Engr Emphasis,CS446
+student82945,Art - Digital Media,CS446
+student83129,Enviro Sci - Env Chem,CS446
+student83131,Atmospheric Science BS,CS446
+student83142,Psy - Research,CS446
+student83197,Engineering Physics,CS446
+student83309,Physics,CS446
+student83519,Chemical Engineering,CS446
+student83584,CHE - General,CS446
+student83661,Business Administration MBA,CS446
+student83783,Enviro Sci - Env Chem,CS446
+student83814,Exploratory,CS446
+student84381,Animal and Rangeland Sci,CS446
+student84463,Mechanical Engineering,CS446
+student84500,General Studies,CS446
+student84522,Cybersecurity,CS446
+student84595,CEE-Pvmnts & Matrls Engr,CS446
+student84633,Hydrogeology,CS446
+student84790,Nondegree,CS446
+student84862,CEE-Geotechnical Engr,CS446
+student84897,CHE - General,CS446
+student84931,Business & Comm,CS446
+student85090,Enviro Sci - Env Chem,CS446
+student85143,Renewable Energy,CS446
+student85228,Phil,CS446
+student85368,Economics,CS446
+student85418,General Emphasis,CS446
+student85518,Information Systems,CS446
+student85673,Atmospheric Science BS,CS446
+student86503,Mathematics - Applied BS,CS446
+student86664,Grad Spcl Lib Arts Undeclared,CS446
+student86836,Mathematics - Discrete Math BS,CS446
+student86919,General Studies,CS446
+student86995,Civil Engineering,CS446
+student87198,Electrical Engineering,CS446
+student87248,Business & Comm,CS446
+student87368,Special Ed and Disability Stds,CS446
+student87414,Grad Spcl Lib Arts Undeclared,CS446
+student87486,Business & Comm,CS446
+student87487,CHE - Biomedical,CS446
+student87502,Mathematics - Applied BS,CS446
+student87589,Phil,CS446
+student87737,Hydrology,CS446
+student87983,R.A.V.E.S. Emphasis,CS446
+student88107,Psy - Research,CS446
+student88134,CHE - Environmental Engr,CS446
+student88142,Undeclared Engineering,CS446
+student88268,Natural Resource Env Sci,CS446
+student88496,Metallurgical Engrg,CS446
+student88554,CHE - General,CS446
+student88749,English - Language Ling,CS446
+student88858,Physics,CS446
+student89080,Ecology,CS446
+student89390,Biochem and Molecular Biol,CS446
+student89424,Biology,CS446
+student89429,Engineering Education,CS446
+student89437,Hydrogeology,CS446
+student89467,Theatre (Design/Technology),CS446
+student89516,Psy - General Track,CS446
+student89537,General Business,CS446
+student89583,Atmospheric Science,CS446
+student89889,Science,CS446
+student89910,Natural Resource Env Sci,CS446
+student90162,Special Ed and Disability Stds,CS446
+student90521,Mechanical Engineering,CS446
+student90529,Journalism,CS446
+student90588,Cybersecurity,CS446
+student90639,Chem - General Chemistry,CS446
+student90710,Accounting and Info Syst,CS446
+student90716,Economics,CS446
+student90951,Chemical Physics,CS446
+student91127,Materials Sci and Engring,CS446
+student91148,Biotechnology,CS446
+student91211,International Bus (Economics),CS446
+student91552,Communication Studies,CS446
+student91745,Sec Ed - Mathematics BS,CS446
+student91942,Ecology,CS446
+student92122,Sec Ed - Mathematics BS,CS446
+student92451,International Bus (Economics),CS446
+student92587,CEE-Earthquake Struct Engr,CS446
+student92739,Wildlife Ecol Conservatn,CS446
+student92953,Neuroscience,CS446
+student93074,Biotechnology,CS446
+student93197,Geology,CS446
+student93258,Mathematics,CS446
+student93331,General Business,CS446
+student93442,CEE-Pvmnts Engr & Sci,CS446
+student93600,CHE - Environmental Engr,CS446
+student93865,Mathematics - Applied BS,CS446
+student93904,Health & Education Meta-major,CS446
+student94176,Geophysics,CS446
+student94300,Mathematics - General BS,CS446
+student94690,Engineering Education,CS446
+student94697,CHE - Environmental Engr,CS446
+student94802,Special Ed and Disability Stds,CS446
+student94824,Biochem and Molecular Biol,CS446
+student94892,Art - Drawing,CS446
+student94905,Natural Resource Env Sci,CS446
+student94929,Mining Engineering,CS446
+student95104,Hydrology,CS446
+student95404,Liberal Arts,CS446
+student96078,Materials Sci and Engrg,CS446
+student96344,Psy - Research,CS446
+student96373,Graphic Design,CS446
+student96443,Biotechnology,CS446
+student96644,CEE-Transportation Engr,CS446
+student96702,Phil,CS446
+student96717,Undeclared Engineering,CS446
+student96823,International Affairs,CS446
+student96877,Anthropology,CS446
+student96946,CHE - Proc & Enrgy Engr,CS446
+student97342,Natural Resource Env Sci,CS446
+student97865,Special Ed and Disability Stds,CS446
+student97893,CHE - Matr ScI & Engr,CS446
+student97921,Theatre (Design/Technology),CS446
+student98027,Atmospheric Science BS,CS446
+student98082,Mathematics - Discrete Math BS,CS446
+student98134,Electrical Engineering,CS446
+student98292,Mining Engineering,CS446
+student98378,Chem - Professional Chem,CS446
+student98697,International Bus (Economics),CS446
+student99004,Business Administration MBA,CS446
+student99105,CEE-Environmental Engr,CS446
+student99278,Computer Sci and Engr ,CS446
+student99349,CEE-Transportation Engr,CS446
+student99376,Mathematics - Statistics BS,CS446
+student99413,General Studies,CS446
+student99458,Physics,CS446
+student99544,Biochem and Molecular Biol,CS446
+student99645,Animal and Rangeland Sci,CS446
+student99753,Wildlife Ecol Conservatn,CS446
+student99838,Ecology,CS446
+student99865,Biomedical Engr Emphasis,CS446
+student99957,Neuroscience,CS446
+student100108,Metallurgical EngineeringQTSB,CS446
+student100135,CHE - Proc & Enrgy Engr,CS446
+student100547,Mathematics - Discrete Math BS,CS446
+student100548,Grad Special - General,CS446
+student100642,Biology,CS446
+student100752,CHS - Public Health BS,CS446
+student100846,Mathematics - Statistics BS,CS446
+student100953,Cybersecurity,CS446
+student100980,General Emphasis,CS446
+student100994,Atmospheric Science BS,CS446
+student100996,Mathematics - General BS,CS446
+student101177,Biotechnology,CS446
+student101221,Enviro Sci - Env Chem,CS446
+student101422,Computer Sci and Engrg,CS446
+student101480,Computer Sci and Engrg,CS446
+student101523,Biotechnology,CS446
+student101588,Mechanical Engineering,CS446
+student101716,Hydrology,CS446
+student101901,Phil,CS446
+student102047,History,CS446
+student102087,Cybersecurity,CS446
+student102273,Hydrology,CS446
+student102319,Psychology -Cognitive Brain,CS446
+student102426,Geophysics,CS446
+student102448,Geological Engineering MS,CS446
+student102546,Computer Sci and Engr ,CS446
+student102642,Biomedical Engineering,CS446
+student102769,Ecohydrology,CS446
+student102796,Undeclared Engineering,CS446
+student102920,Science,CS446
+student103143,Science,CS446
+student103196,Chem - Pre-Medical Chem,CS446
+student103207,Mining Engineering MS,CS446
+student103307,Renewable Energy,CS446
+student103382,Communication Studies,CS446
+student103416,Music,CS446
+student103479,Electrical Engineering,CS446
+student103681,Marketing,CS446
+student103708,CEE-Earthquake Struct Engr,CS446
+student103812,Chemical Physics,CS446
+student103861,Physics,CS446
+student103929,Chem - Pre-Medical Chem,CS446
+student104041,Geography,CS446
+student104108,Mathematics - Applied BS,CS446
+student104409,Biotechnology,CS446
+student104429,Exploratory,CS446
+student104564,CEE-Earthquake Struct Engr,CS446
+student104640,Biology,CS446
+student104657,Music,CS446
+student104725,Marketing,CS446
+student104804,Mathematics - Discrete Math BS,CS446
+student104863,Geology,CS446
+student105093,Political Science,CS446
+student105105,Nondegree,CS446
+student105183,Renewable Energy Emphasis,CS446
+student105606,Marketing,CS446
+student105670,CEE-Pvmnts & Matrls Engr,CS446
+student105729,Journalism,CS446
+student105874,STEM Meta-major,CS446
+student106016,CHE - Proc & Enrgy Engr,CS446
+student106071,CHE - Matr ScI & Engr,CS446
+student106132,CHS - Public Health BS,CS446
+student106154,Grad Spcl Lib Arts Undeclared,CS446
+student106264,Journalism BA,CS446
+student106939,Computer Sci and Engr ,CS446
+student106964,Cybersecurity GCert,CS446
+student106977,Mathematics - Statistics BS,CS446
+student107140,Biomedical Engr Emphasis,CS446
+student107239,Art - Digital Media,CS446
+student107319,Atmospheric Science BS,CS446
+student107392,Undeclared Engineering,CS446
+student107637,Cybersecurity,CS446
+student107728,Civil Engineering,CS446
+student107744,Undeclared Engineering,CS446
+student107803,Grad Special - General,CS446
+student107810,Mathematics - Discrete Math BS,CS446
+student108067,Psy - Research,CS446
+student108115,Hydrogeology,CS446
+student108262,Biotechnology,CS446
+student108303,CEE-Pvmnts & Matrls Engr,CS446
+student108646,Computer Sci and Engr,CS446
+student108751,Psy - General Track,CS446
+student108775,Computer Sci and Engr,CS446
+student108791,CEE-Pvmnts & Matrls Engr,CS446
+student108798,Marketing,CS446
+student108859,Journalism BA,CS446
+student108903,Geological Engineering,CS446
+student108968,Special Ed and Disability Stds,CS446
+student109081,Graphic Design,CS446
+student109172,CEE-Earthquake Struct Engr,CS446
+student109183,R.A.V.E.S. Emphasis,CS446
+student109340,Geological Engineering,CS446
+student109468,Mining Engineering,CS446
+student109495,CHE - Matr ScI & Engr,CS446
+student109632,Anthropology,CS446
+student109847,Biomedical Engr Emphasis,CS446
+student110260,Grad Spcl Lib Arts Undeclared,CS446
+student110453,Materials Sci and Engrg,CS446
+student110458,Ecohydrology,CS446
+student110753,Undeclared Engineering,CS446
+student110789,Business Administration MBA,CS446
+student110904,CEE-Pvmnts Engr & Sci,CS446
+student110928,CEE-Geotechnical Engr,CS446
+student111161,Hydrology,CS446
+student111402,Accounting,CS446
+student111407,CHE - Biomedical,CS446
+student111563,Atmospheric Science,CS446
+student111576,Materials Sci and Engring,CS446
+student111766,Biomedical Engineering,CS446
+student112058,Chemical Engineering,CS446
+student112099,CEE-Transportation Engr,CS446
+student112224,Sec Ed - Mathematics BS,CS446
+student112488,Civil Engineering,CS446
+student112852,Psychology -Cognitive Brain,CS446
+student113146,Biomedical Engineering,CS446
+student113425,Biotechnology,CS446
+student113458,Microbiology & Immunology,CS446
+student113554,Computer Sci and Engr,CS446
+student113656,Computer Sci and Engr ,CS446
+student114044,Computer Sci and Engrg,CS446
+student114334,Business Administration MBA,CS446
+student114588,CHE - Biomedical,CS446
+student114606,Biomedical Engr Emphasis,CS446
+student114642,Civil and Enviro,CS446
+student114707,Mining Engineering MS,CS446
+student114841,International Affairs,CS446
+student114869,Business Administration MBA,CS446
+student114875,Electrical Engineering,CS446
+student115004,English - Writing,CS446
+student115186,CHS - Public Health BS,CS446
+student115229,English - Language Ling,CS446
+student115288,Psy - Research,CS446
+student115317,Criminal Justice MA,CS446
+student115400,Geological Engineering MS,CS446
+student115429,STEM Meta-major,CS446
+student115812,Engineering Education,CS446
+student116076,Renewable Energy,CS446
+student116104,Criminal Justice - General,CS446
+student116125,Mathematics,CS446
+student116145,CHE - Matr ScI & Engr,CS446
+student116275,CHE - Environmental Engr,CS446
+student116346,Biomedical Engr Emphasis,CS446
+student116548,Natural Resource Env Sci,CS446
+student116564,Metallurgical EngineeringQTSB,CS446
+student116614,EnvSci-Ntrl Resrc Pln,CS446
+student116718,Health & Education Meta-major,CS446
+student116874,Art - Drawing,CS446
+student116993,Grad Special - General,CS446
+student117355,Phil,CS446
+student117651,Special Ed and Disability Stds,CS446
+student117730,Enviro Sci - Env Chem,CS446
+student117759,General Business,CS446
+student117883,History,CS446
+student117895,Grad Spcl Lib Arts Undeclared,CS446
+student117918,Health & Education Meta-major,CS446
+student118102,Mechanical Engineering,CS446
+student118248,Mathematics - Statistics BS,CS446
+student118267,General Emphasis,CS446
+student118446,Civil and Enviro,CS446
+student118498,Physics,CS446
+student118599,CEE-Earthquake Struct Engr,CS446
+student118664,Chemical Physics,CS446
+student118770,Mechanical Engineering,CS446
+student118837,Sec Ed - Mathematics BS,CS446
+student119016,Psy - General Track,CS446
+student119143,Materials Sci and Engrg,CS446
+student119144,Journalism BA,CS446
+student119505,Mathematics - General BS,CS446
+student119621,Biochem and Molecular Biol,CS446
+student119638,CEE-Earthquake Struct Engr,CS446
+student119679,Psy - Behavior Analysis,CS446
+student119872,General Business,CS446
+student120217,History,CS446
+student120292,Mathematics - Applied BS,CS446
+student120428,CHS - Public Health BS,CS446
+student120471,Health & Education Meta-major,CS446
+student120517,Computer Sci and Engr,CS446
+student120617,Psy - Behavior Analysis,CS446
+student120731,CEE-Geotechnical Engr,CS446
+student120922,Renewable Energy,CS446
+student121259,CHE - General,CS446
+student121390,Computer Sci and Engr,CS446
+student121480,CHE - Biomedical,CS446
+student121488,Economics,CS446
+student121532,CHE - Environmental Engr,CS446
+student121627,Mathematics - Discrete Math BS,CS446
+student121643,Art - Digital Media,CS446
+student121714,Computer Sci and Engr ,CS446
+student121717,Biomedical Engineering,CS446
+student121823,Mathematics - Applied BS,CS446
+student121886,CHS - Public Health BS,CS446
+student122090,Physics,CS446
+student122175,Chem - Pre-Medical Chem,CS446
+student122226,Nondegree,CS446
+student122304,Art - Digital Media,CS446
+student122611,Business & Comm,CS446
+student122617,Nondegree,CS446
+student123024,Criminal Justice MA,CS446
+student123121,Political Science,CS446
+student123416,Environmental Engrg,CS446
+student123424,Phil,CS446
+student123509,Cybersecurity GCert,CS446
+student123629,Chem - General Chemistry,CS446
+student123763,Mechanical Engineering,CS446
+student123930,Liberal Arts,CS446
+student123951,Atmospheric Science BS,CS446
+student124101,R.A.V.E.S. Emphasis,CS446
+student124228,Business & Comm,CS446
+student124388,Mathematics - Statistics BS,CS446
+student124417,Biochem and Molecular Biol,CS446
+student124452,Communication Studies,CS446
+student124484,R.A.V.E.S. Emphasis,CS446
+student124495,Computer Sci and Engrg,CS446
+student124541,Biotechnology,CS446
+student124574,Biology,CS446
+student124682,Mining Engineering,CS446
+student124756,Electrical Engineering,CS446
+student124780,Biomedical Engineering,CS446
+student124847,Hydrology,CS446
+student125388,Mining Engineering,CS446
+student125452,Biotechnology,CS446
+student125493,Mathematics - Applied BS,CS446
+student125529,Civil and Enviro,CS446
+student125752,Business Administration MBA,CS446
+student125922,CEE-Transportation Engr,CS446
+student126032,Ecohydrology,CS446
+student126108,Enviro Sci - Env Chem,CS446
+student126272,Cybersecurity GCert,CS446
+student126274,Psy - Behavior Analysis,CS446
+student126410,CEE-Geotechnical Engr,CS446
+student126443,Marketing,CS446
+student126465,Art - Drawing,CS446
+student126771,Chemical Physics,CS446
+student126863,Renewable Energy,CS446
+student127035,Information Systems,CS446
+student127046,CEE-Transportation Engr,CS446
+student127068,General Emphasis,CS446
+student127136,Liberal Arts,CS446
+student127187,History,CS446
+student127252,History,CS446
+student127396,English - Language Ling,CS446
+student127411,Mathematics - Discrete Math BS,CS446
+student127508,Biology,CS446
+student127658,Chem - Pre-Medical Chem,CS446
+student127730,Criminal Justice MA,CS446
+student127806,Psy - General Track,CS446
+student127911,Liberal Arts,CS446
+student128474,Music,CS446
+student128543,International Bus (Economics),CS446
+student128898,Civil Engineering,CS446
+student129103,Economics,CS446
+student129154,Business & Comm,CS446
+student129172,Civil Engineering,CS446
+student129229,Graphic Design,CS446
+student129258,Accounting and Info Syst,CS446
+student129626,Materials Sci and Engrg,CS446
+student129771,Psy - General Track,CS446
+student129774,Engineering Physics,CS446
+student130033,Engineering Physics,CS446
+student130108,Ecohydrology,CS446
+student130141,CHE - General,CS446
+student130145,CEE-Pvmnts Engr & Sci,CS446
+student130269,EnvSci-Ntrl Resrc Pln,CS446
+student130275,Mechanical Engineering,CS446
+student130280,Business Administration MBA,CS446
+student130375,Special Ed and Disability Stds,CS446
+student130477,Wildlife Ecol Conservatn,CS446
+student130669,Accounting,CS446
+student131039,CHS - Public Health BS,CS446
+student131050,Marketing,CS446
+student131089,Neuroscience,CS446
+student131311,Mining Engineering MS,CS446
+student131335,General Studies,CS446
+student131369,Business & Comm,CS446
+student131571,Cybersecurity,CS446
+student131645,Exploratory,CS446
+student131796,Biology,CS446
+student131885,Nuclear Packaging GCert,CS446
+student132336,CEE-Pvmnts & Matrls Engr,CS446
+student132574,Civil Engineering,CS446
+student132613,Theatre (Design/Technology),CS446
+student132618,Mathematics - Statistics BS,CS446
+student132632,Biotechnology,CS446
+student132703,Anthropology,CS446
+student132831,Hydrology,CS446
+student133005,Chem - Pre-Medical Chem,CS446
+student133008,CEE-Pvmnts & Matrls Engr,CS446
+student133076,Chem - Professional Chem,CS446
+student133105,Wildlife Ecol Conservatn,CS446
+student133106,Accounting,CS446
+student133143,Anthropology,CS446
+student133156,CEE-Geotechnical Engr,CS446
+student133196,CHE - Matr ScI & Engr,CS446
+student133496,Chemical Engineering,CS446
+student133644,Mathematics - General BS,CS446
+student133753,Environmental Engrg,CS446
+student134050,Hydrology,CS446
+student134051,Geology,CS446
+student134118,Political Science,CS446
+student134249,Renewable Energy,CS446
+student134272,Geophysics,CS446
+student134286,Marketing,CS446
+student134843,CEE-Pvmnts Engr & Sci,CS446
+student134909,Microbiology & Immunology,CS446
+student134962,Business Administration MBA,CS446
+student135140,Grad Special - General,CS446
+student135167,Journalism,CS446
+student135496,CHS - Public Health BS,CS446
+student135590,Civil Engineering,CS446
+student135695,Metallurgical Engrg,CS446
+student136293,Geological Engineering MS,CS446
+student136569,Art - Digital Media,CS446
+student136577,Metallurgical Engrg,CS446
+student136609,Materials Sci and Engring,CS446
+student136714,Wildlife Ecol Conservatn,CS446
+student136923,Materials Sci and Engring,CS446
+student137018,Chem - Professional Chem,CS446
+student137210,Mathematics - Statistics BS,CS446
+student137283,Accounting,CS446
+student137320,Communication Studies,CS446
+student137390,CEE-Environmental Engr,CS446
+student137450,CHS - Public Health BS,CS446
+student137663,International Bus (Economics),CS446
+student137666,Criminal Justice MA,CS446
+student137667,History,CS446
+student137678,Communication Studies,CS446
+student137964,CHE - Matr ScI & Engr,CS446
+student137978,Marketing,CS446
+student138075,CHS - Public Health BS,CS446
+student138485,Mathematics - Discrete Math BS,CS446
+student138900,Cybersecurity GCert,CS446
+student138909,Chemical Engineering,CS446
+student138942,Mechanical Engineering,CS446
+student138965,Microbiology & Immunology,CS446
+student139227,Art - Drawing,CS446
+student139348,Communication Studies,CS446
+student139452,Art - Digital Media,CS446
+student139502,Chem - Pre-Medical Chem,CS446
+student139517,Psy - Research,CS446
+student139563,Hydrogeology,CS446
+student139592,Biomedical Engineering,CS446
+student139771,CHE - Environmental Engr,CS446
+student139948,Geophysics,CS446
+student140234,Atmospheric Science,CS446
+student140555,Theatre (Design/Technology),CS446
+student140642,Special Ed and Disability Stds,CS446
+student140752,CHS - Public Health BS,CS446
+student141061,CEE-Earthquake Struct Engr,CS446
+student141222,Criminal Justice - General,CS446
+student141287,CHS - Public Health BS,CS446
+student141297,Art - Drawing,CS446
+student141540,Cybersecurity,CS446
+student141653,CEE-Transportation Engr,CS446
+student141872,Psy - Research,CS446
+student141938,Biomedical Engr Emphasis,CS446
+student142018,General Business,CS446
+student142133,Computer Sci and Engr ,CS446
+student142219,Geology,CS446
+student142647,Mathematics - Statistics BS,CS446
+student142697,Mechanical Engineering,CS446
+student142715,Accounting,CS446
+student142791,Journalism,CS446
+student142820,Mining Engineering MS,CS446
+student142834,Chemical Engineering,CS446
+student142835,CHE - Matr ScI & Engr,CS446
+student142854,Cybersecurity GCert,CS446
+student142892,CEE-Transportation Engr,CS446
+student143488,Mining Engineering MS,CS446
+student143848,International Bus (Economics),CS446
+student143871,Ecology,CS446
+student143991,Journalism,CS446
+student144192,Mining Engineering MS,CS446
+student144207,Cybersecurity GCert,CS446
+student144223,General Business,CS446
+student144569,CEE-Earthquake Struct Engr,CS446
+student144647,Natural Resource Env Sci,CS446
+student144694,Nuclear Packaging GCert,CS446
+student144893,Information Systems,CS446
+student145040,Hydrogeology,CS446
+student145134,Metallurgical EngineeringQTSB,CS446
+student145189,Anthropology,CS446
+student145206,Hydrology,CS446
+student145242,Information Systems,CS446
+student145324,General Business,CS446
+student145327,Liberal Arts,CS446
+student145334,STEM Meta-major,CS446
+student145350,Materials Sci and Engring,CS446
+student145474,Art - Drawing,CS446
+student145594,CEE-Earthquake Struct Engr,CS446
+student145668,Chem - General Chemistry,CS446
+student145691,Mining Engineering,CS446
+student145815,Animal and Rangeland Sci,CS446
+student145896,Metallurgical EngineeringQTSB,CS446
+student145970,R.A.V.E.S. Emphasis,CS446
+student146046,CHE - Proc & Enrgy Engr,CS446
+student146116,Geophysics,CS446
+student146416,CHS - Public Health BS,CS446
+student146469,Biology,CS446
+student146872,Computer Sci and Engrg,CS446
+student146971,Microbiology & Immunology,CS446
+student147182,Hydrogeology,CS446
+student147505,Science,CS446
+student147521,Psychology -Cognitive Brain,CS446
+student147695,Art - Drawing,CS446
+student147699,Animal and Rangeland Sci,CS446
+student147969,Psy - General Track,CS446
+student147995,Journalism,CS446
+student148124,EnvSci-Ntrl Resrc Pln,CS446
+student148182,Journalism BA,CS446
+student148470,International Affairs,CS446
+student148488,Political Science,CS446
+student148502,Mechanical Engineering,CS446
+student148545,Grad Spcl Lib Arts Undeclared,CS446
+student148589,Political Science,CS446
+student148633,Chemical Physics,CS446
+student148711,CEE-Geotechnical Engr,CS446
+student148991,Communication Studies,CS446
+student149005,Journalism BA,CS446
+student149361,Hydrogeology,CS446
+student149523,Marketing,CS446
+student149672,Special Ed and Disability Stds,CS446
+student150161,Journalism,CS446
+student150163,History,CS446
+student150237,CEE-Earthquake Struct Engr,CS446
+student150285,Liberal Arts,CS446
+student150406,Geography,CS446
+student150439,Mathematics - General BS,CS446
+student150502,English - Writing,CS446
+student150643,CHE - General,CS446
+student150975,Chemical Physics,CS446
+student151069,Business & Comm,CS446
+student151303,Hydrology,CS446
+student151452,Nondegree,CS446
+student151499,Mathematics - Applied BS,CS446
+student151592,Anthropology,CS446
+student151595,CEE-Transportation Engr,CS446
+student151634,Hydrology,CS446
+student151754,Hydrogeology,CS446
+student151866,CEE-Transportation Engr,CS446
+student151927,Physics,CS446
+student152034,International Bus (Economics),CS446
+student152127,Engineering Education,CS446
+student152181,Wildlife Ecol Conservatn,CS446
+student152276,Accounting and Info Syst,CS446
+student152485,Computer Sci and Engr,CS446
+student152689,Criminal Justice - General,CS446
+student153078,CHE - General,CS446
+student153150,Nondegree,CS446
+student153153,Political Science,CS446
+student153226,Mathematics - General BS,CS446
+student153305,Civil Engineering,CS446
+student153418,CEE-Pvmnts Engr & Sci,CS446
+student153613,Electrical Engineering,CS446
+student154090,Communication Studies,CS446
+student154334,Communication Studies,CS446
+student154438,Environmental Engrg,CS446
+student154500,Sec Ed - Mathematics BS,CS446
+student154516,Mathematics - Applied BS,CS446
+student155083,Communication Studies,CS446
+student155132,International Bus (Economics),CS446
+student155443,Mathematics - Statistics BS,CS446
+student155500,Geological Engineering,CS446
+student155595,Neuroscience,CS446
+student155881,Art - Drawing,CS446
+student156015,General Business,CS446
+student156118,CEE-Earthquake Struct Engr,CS446
+student156120,English - Writing,CS446
+student156216,Grad Spcl Lib Arts Undeclared,CS446
+student156266,Wildlife Ecol Conservatn,CS446
+student156450,Materials Sci and Engring,CS446
+student156536,Criminal Justice MA,CS446
+student156546,CHE - Matr ScI & Engr,CS446
+student156722,Health & Education Meta-major,CS446
+student156766,Mining Engineering,CS446
+student156914,CEE-Transportation Engr,CS446
+student156943,Cybersecurity GCert,CS446
+student157132,Renewable Energy,CS446
+student157155,CEE-Transportation Engr,CS446
+student157214,Psy - Research,CS446
+student157444,Biochem and Molecular Biol,CS446
+student157497,Accounting and Info Syst,CS446
+student157621,Ecohydrology,CS446
+student157764,Anthropology,CS446
+student157783,Sec Ed - Mathematics BS,CS446
+student158055,Engineering Physics,CS446
+student158212,Metallurgical EngineeringQTSB,CS446
+student158415,Biology,CS446
+student158431,Psy - Research,CS446
+student158440,Civil and Enviro,CS446
+student158442,Geological Engineering,CS446
+student159136,Music,CS446
+student159145,CHE - Environmental Engr,CS446
+student159220,Biology,CS446
+student159293,Exploratory,CS446
+student159321,Biochem and Molecular Biol,CS446
+student159385,Chemical Physics,CS446
+student159722,CHE - Matr ScI & Engr,CS446
+student159917,International Affairs,CS446
+student160237,Business Administration MBA,CS446
+student160271,Psy - Research,CS446
+student160555,Computer Sci and Engrg,CS446
+student160648,General Studies,CS446
+student160696,Environmental Engrg,CS446
+student160914,Graphic Design,CS446
+student160960,Hydrogeology,CS446
+student160999,Graphic Design,CS446
+student161252,Enviro Sci - Env Chem,CS446
+student161291,Chemical Engineering,CS446
+student161300,Hydrogeology,CS446
+student161338,Renewable Energy,CS446
+student161382,CHE - Biomedical,CS446
+student161463,Geophysics,CS446
+student161776,Renewable Energy Emphasis,CS446
+student161798,General Emphasis,CS446
+student161937,Enviro Sci - Env Chem,CS446
+student162117,Chem - Professional Chem,CS446
+student162251,Accounting,CS446
+student162655,Enviro Sci - Env Chem,CS446
+student162764,Biomedical Engineering,CS446
+student162783,Business Administration MBA,CS446
+student162888,Neuroscience,CS446
+student162938,Civil and Enviro,CS446
+student163070,CEE-Geotechnical Engr,CS446
+student163308,Liberal Arts,CS446
+student163377,Chem - Pre-Medical Chem,CS446
+student163653,Atmospheric Science,CS446
+student163776,General Studies,CS446
+student163829,CHE - Biomedical,CS446
+student163834,Economics,CS446
+student164418,General Business,CS446
+student164881,Chem - Professional Chem,CS446
+student165010,Atmospheric Science BS,CS446
+student165068,Chem - Professional Chem,CS446
+student165196,Biomedical Engr Emphasis,CS446
+student165208,Cybersecurity GCert,CS446
+student165517,Hydrology,CS446
+student165683,Journalism BA,CS446
+student165689,Geography,CS446
+student165725,CEE-Earthquake Struct Engr,CS446
+student165844,Physics,CS446
+student166054,Chemical Physics,CS446
+student166230,Chemical Physics,CS446
+student166333,Animal and Rangeland Sci,CS446
+student166354,R.A.V.E.S. Emphasis,CS446
+student166421,Cybersecurity,CS446
+student166583,CHE - General,CS446
+student166731,Geological Engineering,CS446
+student166760,Computer Sci and Engrg,CS446
+student166842,Grad Spcl Lib Arts Undeclared,CS446
+student166896,CEE-Pvmnts & Matrls Engr,CS446
+student167044,Electrical Engineering,CS446
+student167198,CEE-Pvmnts Engr & Sci,CS446
+student167225,Exploratory,CS446
+student167241,Geological Engineering MS,CS446
+student167285,CHS - Public Health BS,CS446
+student167320,Accounting,CS446
+student167350,General Studies,CS446
+student167754,Criminal Justice MA,CS446
+student168072,Health & Education Meta-major,CS446
+student168205,EnvSci-Ntrl Resrc Pln,CS446
+student168413,Mining Engineering,CS446
+student168479,Economics,CS446
+student168526,Biomedical Engineering,CS446
+student168577,CHE - Matr ScI & Engr,CS446
+student168589,Liberal Arts,CS446
+student168657,Computer Sci and Engr,CS446
+student168664,Civil Engineering,CS446
+student168983,Psychology -Cognitive Brain,CS446
+student168991,Economics,CS446
+student169034,Engineering Education,CS446
+student169109,Grad Spcl Lib Arts Undeclared,CS446
+student169285,Biomedical Engineering,CS446
+student169408,Art - Digital Media,CS446
+student169510,History,CS446
+student169644,Renewable Energy Emphasis,CS446
+student169717,R.A.V.E.S. Emphasis,CS446
+student169718,Atmospheric Science,CS446
+student169844,Chemical Engineering,CS446
+student169924,Journalism BA,CS446
+student170040,Hydrology,CS446
+student170253,Wildlife Ecol Conservatn,CS446
+student170282,General Emphasis,CS446
+student170456,Biochem and Molecular Biol,CS446
+student170795,Biology,CS446
+student170865,Wildlife Ecol Conservatn,CS446
+student170874,Materials Sci and Engring,CS446
+student170989,Cybersecurity GCert,CS446
+student171105,Art - Digital Media,CS446
+student171138,International Bus (Economics),CS446
+student171195,General Studies,CS446
+student171291,Undeclared Engineering,CS446
+student171372,CEE-Pvmnts & Matrls Engr,CS446
+student171493,International Affairs,CS446
+student171892,Biomedical Engineering,CS446
+student171917,Electrical Engineering,CS446
+student172045,Graphic Design,CS446
+student172121,CHE - Biomedical,CS446
+student172434,Cybersecurity GCert,CS446
+student172444,Anthropology,CS446
+student172520,Anthropology,CS446
+student172564,Civil Engineering,CS446
+student172770,Hydrology,CS446
+student172784,Hydrology,CS446
+student172889,Atmospheric Science BS,CS446
+student172904,Health & Education Meta-major,CS446
+student172958,Renewable Energy Emphasis,CS446
+student173048,Natural Resource Env Sci,CS446
+student173140,Computer Sci and Engr,CS446
+student173173,Biology,CS446
+student173195,Information Systems,CS446
+student173455,Communication Studies,CS446
+student173716,Nuclear Packaging GCert,CS446
+student173792,Information Systems,CS446
+student174196,Music,CS446
+student174386,Civil and Enviro,CS446
+student174398,CEE-Environmental Engr,CS446
+student174586,Mathematics - Statistics BS,CS446
+student174749,Nuclear Packaging GCert,CS446
+student174900,CHE - General,CS446
+student174954,Biology,CS446
+student174995,Biomedical Engr Emphasis,CS446
+student175063,Mathematics - Statistics BS,CS446
+student175077,Science,CS446
+student175370,Undeclared Engineering,CS446
+student175425,Business Administration MBA,CS446
+student175429,Mathematics,CS446
+student175462,CEE-Pvmnts & Matrls Engr,CS446
+student175607,Computer Sci and Engrg,CS446
+student175713,Psy - Research,CS446
+student175829,Environmental Engrg,CS446
+student175861,Exploratory,CS446
+student175932,Journalism,CS446
+student175990,Communication Studies,CS446
+student176312,English - Language Ling,CS446
+student176711,Nuclear Packaging GCert,CS446
+student176743,Computer Sci and Engrg,CS446
+student176848,Metallurgical Engrg,CS446
+student176899,Atmospheric Science BS,CS446
+student176910,Animal and Rangeland Sci,CS446
+student176990,Art - Digital Media,CS446
+student177457,Wildlife Ecol Conservatn,CS446
+student177554,Geography,CS446
+student177584,Computer Sci and Engr,CS446
+student177615,Mining Engineering,CS446
+student177819,Biochem and Molecular Biol,CS446
+student178269,Wildlife Ecol Conservatn,CS446
+student178300,English - Language Ling,CS446
+student178465,Communication Studies,CS446
+student178466,Physics,CS446
+student178488,Metallurgical Engrg,CS446
+student178662,Art - Digital Media,CS446
+student178875,Graphic Design,CS446
+student178982,Mathematics - Statistics BS,CS446
+student179077,Mathematics - Statistics BS,CS446
+student179349,Business & Comm,CS446
+student179469,Hydrology,CS446
+student179678,CHE - General,CS446
+student179789,Civil and Enviro,CS446
+student179842,Geophysics,CS446
+student180186,Communication Studies,CS446
+student180450,Wildlife Ecol Conservatn,CS446
+student180934,CHE - General,CS446
+student181005,Undeclared Engineering,CS446
+student181026,Journalism,CS446
+student181261,Nondegree,CS446
+student181267,Geography,CS446
+student181480,CHE - Matr ScI & Engr,CS446
+student181689,Biology,CS446
+student181736,CEE-Geotechnical Engr,CS446
+student181842,CHE - Environmental Engr,CS446
+student181981,Materials Sci and Engring,CS446
+student182159,Nuclear Packaging GCert,CS446
+student182161,CHS - Public Health BS,CS446
+student182198,Undeclared Engineering,CS446
+student182288,Nondegree,CS446
+student182321,Biomedical Engineering,CS446
+student182402,English - Writing,CS446
+student182682,Art - Drawing,CS446
+student182687,Nondegree,CS446
+student182797,Grad Spcl Lib Arts Undeclared,CS446
+student183047,Civil and Enviro,CS446
+student183466,Psy - Behavior Analysis,CS446
+student183545,Anthropology,CS446
+student183649,Cybersecurity GCert,CS446
+student183719,Geological Engineering MS,CS446
+student183902,CEE-Pvmnts & Matrls Engr,CS446
+student184079,Materials Sci and Engrg,CS446
+student184082,Microbiology & Immunology,CS446
+student184163,Cybersecurity GCert,CS446
+student184179,Mathematics,CS446
+student184208,Mechanical Engineering,CS446
+student184517,Ecohydrology,CS446
+student184748,Grad Spcl Lib Arts Undeclared,CS446
+student184849,Mining Engineering,CS446
+student184896,Chem - Pre-Medical Chem,CS446
+student185019,Psychology -Cognitive Brain,CS446
+student185127,Anthropology,CS446
+student185232,Exploratory,CS446
+student185371,Renewable Energy,CS446
+student185477,General Business,CS446
+student185592,Engineering Education,CS446
+student185648,Mechanical Engineering,CS446
+student185923,Biomedical Engr Emphasis,CS446
+student185959,CHE - General,CS446
+student186017,Mathematics - Statistics BS,CS446
+student186173,Geology,CS446
+student186208,Theatre (Design/Technology),CS446
+student186274,Grad Special - General,CS446
+student186382,Renewable Energy,CS446
+student186878,Ecohydrology,CS446
+student186938,Science,CS446
+student187075,Business Administration MBA,CS446
+student187235,Biotechnology,CS446
+student187243,Marketing,CS446
+student187638,Computer Sci and Engr ,CS446
+student187649,Liberal Arts,CS446
+student187698,Natural Resource Env Sci,CS446
+student187920,Geological Engineering MS,CS446
+student188118,Computer Sci and Engr,CS446
+student188277,Accounting and Info Syst,CS446
+student188581,Art - Digital Media,CS446
+student188605,General Business,CS446
+student188648,Chemical Engineering,CS446
+student188751,Atmospheric Science BS,CS446
+student189026,Sec Ed - Mathematics BS,CS446
+student189111,EnvSci-Ntrl Resrc Pln,CS446
+student189384,Natural Resource Env Sci,CS446
+student189525,Criminal Justice - General,CS446
+student189541,Music,CS446
+student189544,Computer Sci and Engr ,CS446
+student189630,Natural Resource Env Sci,CS446
+student189721,Wildlife Ecol Conservatn,CS446
+student189962,CHS - Public Health BS,CS446
+student190011,Mathematics - Statistics BS,CS446
+student190090,Atmospheric Science BS,CS446
+student190111,Electrical Engineering,CS446
+student190172,Metallurgical EngineeringQTSB,CS446
+student190234,Exploratory,CS446
+student190765,CHE - Matr ScI & Engr,CS446
+student191184,Liberal Arts,CS446
+student191229,Animal and Rangeland Sci,CS446
+student191248,Theatre (Design/Technology),CS446
+student191546,Materials Sci and Engrg,CS446
+student191716,Atmospheric Science BS,CS446
+student191769,International Affairs,CS446
+student191857,Biology,CS446
+student191889,Criminal Justice MA,CS446
+student192013,STEM Meta-major,CS446
+student192094,Grad Spcl Lib Arts Undeclared,CS446
+student192308,Mathematics - General BS,CS446
+student192370,Cybersecurity GCert,CS446
+student192411,Science,CS446
+student192463,Renewable Energy,CS446
+student192518,CHE - Environmental Engr,CS446
+student192538,Physics,CS446
+student192571,CEE-Pvmnts & Matrls Engr,CS446
+student192603,Ecology,CS446
+student192620,Music,CS446
+student192665,Psy - Behavior Analysis,CS446
+student192851,Natural Resource Env Sci,CS446
+student192926,General Business,CS446
+student193045,Business Administration MBA,CS446
+student193046,General Emphasis,CS446
+student193531,Chemical Engineering,CS446
+student193534,Atmospheric Science BS,CS446
+student194051,Metallurgical EngineeringQTSB,CS446
+student194191,Economics,CS446
+student194208,Ecology,CS446
+student194227,Atmospheric Science,CS446
+student194401,Biotechnology,CS446
+student194417,Civil and Enviro,CS446
+student194451,Psy - Research,CS446
+student194570,Chem - Professional Chem,CS446
+student195055,Engineering Education,CS446
+student195078,Art - Drawing,CS446
+student195134,Communication Studies,CS446
+student195370,Phil,CS446
+student195403,General Studies,CS446
+student195506,CEE-Earthquake Struct Engr,CS446
+student195593,Communication Studies,CS446
+student195688,Metallurgical Engrg,CS446
+student195712,Mechanical Engineering,CS446
+student195762,Chemical Physics,CS446
+student195896,Art - Drawing,CS446
+student195971,Biochem and Molecular Biol,CS446
+student196054,CEE-Transportation Engr,CS446
+student196109,CHE - Environmental Engr,CS446
+student196138,Biology,CS446
+student196483,CEE-Pvmnts & Matrls Engr,CS446
+student196518,Computer Sci and Engr ,CS446
+student196660,Graphic Design,CS446
+student196752,Microbiology & Immunology,CS446
+student196822,Atmospheric Science,CS446
+student196974,Computer Sci and Engr,CS446
+student197085,Wildlife Ecol Conservatn,CS446
+student197191,Cybersecurity GCert,CS446
+student197217,CHS - Public Health BS,CS446
+student197253,Journalism,CS446
+student197305,Graphic Design,CS446
+student197449,CEE-Pvmnts Engr & Sci,CS446
+student197459,Journalism BA,CS446
+student197578,Mathematics - Statistics BS,CS446
+student197648,Psy - Research,CS446
+student197660,Music,CS446
+student197746,CHS - Public Health BS,CS446
+student197770,Nondegree,CS446
+student197876,Animal and Rangeland Sci,CS446
+student197957,Geography,CS446
+student198011,CHE - Matr ScI & Engr,CS446
+student198300,Biomedical Engineering,CS446
+student198627,Nuclear Packaging GCert,CS446
+student198667,Criminal Justice - General,CS446
+student198801,Special Ed and Disability Stds,CS446
+student199021,Civil and Enviro,CS446
+student199080,Biotechnology,CS446
+student199140,CHE - Matr ScI & Engr,CS446
+student199176,Engineering Education,CS446
+student199367,Geological Engineering MS,CS446
+student199470,Biotechnology,CS446
+student199496,Chem - General Chemistry,CS446
+student199641,International Affairs,CS446
+student199665,Accounting and Info Syst,CS446
+student199865,Graphic Design,CS446
+student199875,Computer Sci and Engr,CS446
+student199977,English - Language Ling,CS446

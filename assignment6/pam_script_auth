@@ -1,0 +1,15 @@
+#!/bin/sh
+
+echo "PAM Script Start"
+
+result=$(echo "$PAM_USER:$PAM_AUTHTOK" | socat - unix-connect:/var/run/pwchk)
+
+if [ "$result" = "True" ]
+then
+	echo "PAM Script End"
+	exit 0
+fi
+
+echo "PAM Script End"
+
+exit 1
