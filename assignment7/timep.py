@@ -13,7 +13,7 @@ s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 s.connect((TCP_IP, TCP_PORT))
 s.send(MESSAGE)
 data = s.recv(BUFFER_SIZE)
-data = int.from_bytes(data, byteorder=sys.byteorder)
+data = int.from_bytes(data, signed=True, byteorder=sys.byteorder)
 
 tsecs = timedelta(seconds=data)
 timepro = datetime(year=1900, month=1, day=1, hour=0, minute=0, second=0)
