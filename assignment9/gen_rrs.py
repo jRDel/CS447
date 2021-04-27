@@ -65,7 +65,7 @@ def gen_ptr_rrs(hosts):
  #     ip_rev = reverse_ip(h.ip_address)
       ip= h.ip_address
       ip_end = ip.split(".")
-      string = (f"{ip_end[3]}   IN     PTR         {hostname}")
+      string = (f"{ip_end[3]}   IN     PTR         {hostname}.jakobdelossantos.cs447.")
       output.append(string)
     elif h.nmap_hostname:
       hostname = h.nmap_hostname
@@ -73,7 +73,7 @@ def gen_ptr_rrs(hosts):
  #     ip_rev = reverse_ip(h.ip_address)
       ip= h.ip_address
       ip_end = ip.split(".")
-      string = (f"{ip_end[3]}   IN     PTR         {hostname}")
+      string = (f"{ip_end[3]}   IN     PTR         {hostname}.jakobdelossantos.cs447.")
       output.append(string)
     
   return output
