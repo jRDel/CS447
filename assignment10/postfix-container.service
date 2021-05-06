@@ -1,0 +1,15 @@
+[Unit]
+Description=postfix Container
+After=network.target systemd-resolved.service
+
+[Service]
+ExecStart=systemctl start systemd-nspawn@postfix.service
+ExecStartPost=ip link set ve-postfix up
+ExecStartPost=ip addr add 192.168.100.1/24 dev ve-postfix
+ExecStartPost=iptables -t nat -A POSTROUTING -o ve-postfix -j MASQUERADE
+ExecStartPost=iptables -t nat -A PREROUTING -p tcp --dport 25 -j DNAT --to-destination 192.168.100.10:25
+ExecStartPost=iptables -t nat -A PREROUTING -p tcp --dport 587 -j DNAT --to-destination 192.168.100.10:587
+Type=oneshot
+
+[Install]
+WantedBy=machines.target
